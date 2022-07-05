@@ -270,3 +270,5 @@ dmypy.json
 
 # vim stuff
 *.swp
+*.ipynb
+.ipynb
