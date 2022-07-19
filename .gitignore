@@ -270,5 +270,5 @@ dmypy.json
 
 # vim stuff
 *.swp
-*.ipynb
+.ipynb_checkpoints
 .ipynb
